@@ -5,3 +5,6 @@ c=a+b
 print(c)
 print(message)
 
+d="God is Good"
+
+print(d)
